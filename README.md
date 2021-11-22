@@ -1,2 +1,3 @@
-# JMSS64_RequiredFiles
-A small list of files that will be needed to run Jae Min Seo's S64 Skills Assessment 2020
+# Object Detection Programme
+An object detection programming that used pretrained COCO datasets using DarkNet object detection framework using YOLO version 3.
+Part of Spark 64 Programming Test
